@@ -1,0 +1,577 @@
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ProyectoProgra5.UI.exe
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.AssemblyInfoInputs.cache
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.AssemblyInfo.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.RazorAssemblyInfo.cache
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.RazorAssemblyInfo.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.TagHelpers.input.cache
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.TagHelpers.output.cache
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.RazorCoreGenerate.cache
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.RazorTargetAssemblyInfo.cache
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.RazorTargetAssemblyInfo.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoProgra5.UI.StaticWebAssets.Manifest.cache
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoProgra5.UI.StaticWebAssets.xml
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.csproj.CopyComplete
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ProyectoProgra5.UI.deps.json
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ProyectoProgra5.UI.runtimeconfig.json
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ProyectoProgra5.UI.runtimeconfig.dev.json
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ProyectoProgra5.UI.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ProyectoProgra5.UI.pdb
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ProyectoProgra5.UI.Views.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ProyectoProgra5.UI.Views.pdb
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.Views.pdb
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.pdb
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.genruntimeconfig.cache
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.csproj.CoreCompileInputs.cache
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.csprojAssemblyReference.cache
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\CalificacionesWEF\Create.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\CalificacionesWEF\Delete.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\CalificacionesWEF\Details.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\CalificacionesWEF\Edit.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\CalificacionesWEF\Index.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GradosWEF\Create.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GradosWEF\Delete.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GradosWEF\Details.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GradosWEF\Edit.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GradosWEF\Index.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GruposWEF\Create.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GruposWEF\Delete.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GruposWEF\Details.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GruposWEF\Edit.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GruposWEF\Index.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\InstitucionesWEF\Create.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\InstitucionesWEF\Delete.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\InstitucionesWEF\Details.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\InstitucionesWEF\Edit.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\InstitucionesWEF\Index.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\MateriasWEF\Create.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\MateriasWEF\Delete.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\MateriasWEF\Details.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\MateriasWEF\Edit.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\MateriasWEF\Index.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\RolesWEF\Create.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\RolesWEF\Delete.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\RolesWEF\Details.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\RolesWEF\Edit.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\RolesWEF\Index.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoOperacionesWEF\Create.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoOperacionesWEF\Delete.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoOperacionesWEF\Details.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoOperacionesWEF\Edit.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoOperacionesWEF\Index.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoPeriodoWEF\Create.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoPeriodoWEF\Delete.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoPeriodoWEF\Details.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoPeriodoWEF\Edit.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoPeriodoWEF\Index.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuariosWEF\Create.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuariosWEF\Delete.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuariosWEF\Details.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuariosWEF\Edit.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuariosWEF\Index.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuarioXGrupoWEF\Create.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuarioXGrupoWEF\Delete.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuarioXGrupoWEF\Details.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuarioXGrupoWEF\Edit.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuarioXGrupoWEF\Index.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuarioXInstitucionWEF\Create.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuarioXInstitucionWEF\Delete.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuarioXInstitucionWEF\Details.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuarioXInstitucionWEF\Edit.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuarioXInstitucionWEF\Index.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Calificaciones\Default.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Grados\Default.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Instituciones\Default.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Materias\Default.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\TipoOperaciones\Default.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\TipoPeriodo\Default.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Usuarios\Default.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\UsuarioXGrupo\Default.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\UsuarioXInstitucion\Default.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Roles\Default.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Grupos\Default.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\CalificacionesCAPI\Index.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\CalificacionesCAPI\Details.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\CalificacionesCAPI\Create.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\CalificacionesCAPI\Edit.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\CalificacionesCAPI\Delete.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GradosCAPI\Index.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GradosCAPI\Details.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GradosCAPI\Create.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GradosCAPI\Edit.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GradosCAPI\Delete.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GruposCAPI\Index.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GruposCAPI\Details.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GruposCAPI\Create.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GruposCAPI\Edit.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GruposCAPI\Delete.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\InstitucionesCAPI\Index.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\InstitucionesCAPI\Create.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\InstitucionesCAPI\Edit.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\InstitucionesCAPI\Delete.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\InstitucionesCAPI\Details.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\MateriasCAPI\Index.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\MateriasCAPI\Details.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\MateriasCAPI\Create.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\MateriasCAPI\Edit.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\MateriasCAPI\Delete.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\RolesCAPI\Index.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\RolesCAPI\Details.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\RolesCAPI\Create.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\RolesCAPI\Edit.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\RolesCAPI\Delete.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoOperacionesCAPI\Index.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoOperacionesCAPI\Details.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoOperacionesCAPI\Create.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoOperacionesCAPI\Edit.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoOperacionesCAPI\Delete.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoPeriodoCAPI\Index.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoPeriodoCAPI\Details.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoPeriodoCAPI\Create.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoPeriodoCAPI\Edit.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoPeriodoCAPI\Delete.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuariosCAPI\Index.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuariosCAPI\Details.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuariosCAPI\Create.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuariosCAPI\Edit.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuariosCAPI\Delete.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuarioXGrupoCAPI\Index.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuarioXGrupoCAPI\Details.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuarioXGrupoCAPI\Create.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuarioXGrupoCAPI\Edit.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuarioXGrupoCAPI\Delete.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ProyectoProgra5.UI.exe
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ProyectoProgra5.UI.deps.json
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ProyectoProgra5.UI.runtimeconfig.json
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ProyectoProgra5.UI.runtimeconfig.dev.json
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ProyectoProgra5.UI.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ProyectoProgra5.UI.pdb
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ProyectoProgra5.UI.Views.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ProyectoProgra5.UI.Views.pdb
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.csproj.CoreCompileInputs.cache
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.MvcApplicationPartsAssemblyInfo.cache
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.RazorAssemblyInfo.cache
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.RazorAssemblyInfo.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.AssemblyInfoInputs.cache
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.AssemblyInfo.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.TagHelpers.input.cache
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.TagHelpers.output.cache
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.RazorCoreGenerate.cache
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Acceso\Index.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\CalificacionesCAPI\Create.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\CalificacionesCAPI\Delete.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\CalificacionesCAPI\Details.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\CalificacionesCAPI\Edit.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\CalificacionesCAPI\Index.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\CalificacionesWEF\Create.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\CalificacionesWEF\Delete.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\CalificacionesWEF\Details.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\CalificacionesWEF\Edit.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\CalificacionesWEF\Index.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GradosCAPI\Create.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GradosCAPI\Delete.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GradosCAPI\Details.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GradosCAPI\Edit.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GradosCAPI\Index.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GradosWEF\Create.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GradosWEF\Delete.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GradosWEF\Details.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GradosWEF\Edit.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GradosWEF\Index.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GruposCAPI\Create.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GruposCAPI\Delete.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GruposCAPI\Details.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GruposCAPI\Edit.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GruposCAPI\Index.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GruposWEF\Create.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GruposWEF\Delete.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GruposWEF\Details.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GruposWEF\Edit.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\GruposWEF\Index.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\InstitucionesCAPI\Create.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\InstitucionesCAPI\Delete.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\InstitucionesCAPI\Details.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\InstitucionesCAPI\Edit.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\InstitucionesCAPI\Index.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\InstitucionesWEF\Create.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\InstitucionesWEF\Delete.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\InstitucionesWEF\Details.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\InstitucionesWEF\Edit.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\InstitucionesWEF\Index.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\MateriasCAPI\Create.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\MateriasCAPI\Delete.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\MateriasCAPI\Details.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\MateriasCAPI\Edit.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\MateriasCAPI\Index.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\MateriasWEF\Create.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\MateriasWEF\Delete.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\MateriasWEF\Details.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\MateriasWEF\Edit.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\MateriasWEF\Index.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\RolesCAPI\Create.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\RolesCAPI\Delete.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\RolesCAPI\Details.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\RolesCAPI\Edit.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\RolesCAPI\Index.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\RolesWEF\Create.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\RolesWEF\Delete.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\RolesWEF\Details.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\RolesWEF\Edit.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\RolesWEF\Index.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Calificaciones\Default.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Grados\Default.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Grupos\Default.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Instituciones\Default.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Materias\Default.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Roles\Default.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\TipoOperaciones\Default.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\TipoPeriodo\Default.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Usuarios\Default.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\UsuarioXGrupo\Default.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\UsuarioXInstitucion\Default.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoOperacionesCAPI\Create.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoOperacionesCAPI\Delete.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoOperacionesCAPI\Details.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoOperacionesCAPI\Edit.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoOperacionesCAPI\Index.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoOperacionesWEF\Create.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoOperacionesWEF\Delete.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoOperacionesWEF\Details.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoOperacionesWEF\Edit.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoOperacionesWEF\Index.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoPeriodoCAPI\Create.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoPeriodoCAPI\Delete.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoPeriodoCAPI\Details.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoPeriodoCAPI\Edit.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoPeriodoCAPI\Index.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoPeriodoWEF\Create.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoPeriodoWEF\Delete.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoPeriodoWEF\Details.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoPeriodoWEF\Edit.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\TipoPeriodoWEF\Index.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuariosCAPI\Create.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuariosCAPI\Delete.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuariosCAPI\Details.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuariosCAPI\Edit.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuariosCAPI\Index.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuariosWEF\Create.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuariosWEF\Delete.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuariosWEF\Details.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuariosWEF\Edit.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuariosWEF\Index.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuarioXGrupoCAPI\Create.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuarioXGrupoCAPI\Delete.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuarioXGrupoCAPI\Details.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuarioXGrupoCAPI\Edit.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuarioXGrupoCAPI\Index.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuarioXGrupoWEF\Create.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuarioXGrupoWEF\Delete.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuarioXGrupoWEF\Details.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuarioXGrupoWEF\Edit.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuarioXGrupoWEF\Index.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuarioXInstitucionWEF\Create.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuarioXInstitucionWEF\Delete.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuarioXInstitucionWEF\Details.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuarioXInstitucionWEF\Edit.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\UsuarioXInstitucionWEF\Index.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.RazorTargetAssemblyInfo.cache
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.RazorTargetAssemblyInfo.cs
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.Views.pdb
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.csproj.CopyComplete
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoProgra5.UI.StaticWebAssets.Manifest.cache
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoProgra5.UI.StaticWebAssets.xml
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.dll
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.pdb
+D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.genruntimeconfig.cache
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Acceso\Index.cshtml.g.cs

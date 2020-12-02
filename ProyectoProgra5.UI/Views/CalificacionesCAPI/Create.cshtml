@@ -1,0 +1,60 @@
+﻿
+@model ProyectoProgra5.UI.Models.Calificacione
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Calificacione</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="IdCalificacion" class="control-label"></label>
+                <input asp-for="IdCalificacion" class="form-control" />
+                <span asp-validation-for="IdCalificacion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdGrupo" class="control-label"></label>
+                <select asp-for="IdGrupo" class="form-control" asp-items="ViewBag.IdGrupo"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cedula" class="control-label"></label>
+                <select asp-for="Cedula" class="form-control" asp-items="ViewBag.Cedula"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdTipoOperacion" class="control-label"></label>
+                <select asp-for="IdTipoOperacion" class="form-control" asp-items="ViewBag.IdTipoOperacion"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdMateria" class="control-label"></label>
+                <select asp-for="IdMateria" class="form-control" asp-items="ViewBag.IdMateria"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdPeriodo" class="control-label"></label>
+                <select asp-for="IdPeriodo" class="form-control" asp-items="ViewBag.IdPeriodo"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Nota" class="control-label"></label>
+                <input asp-for="Nota" class="form-control" />
+                <span asp-validation-for="Nota" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Fecha" class="control-label"></label>
+                <input asp-for="Fecha" class="form-control" />
+                <span asp-validation-for="Fecha" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

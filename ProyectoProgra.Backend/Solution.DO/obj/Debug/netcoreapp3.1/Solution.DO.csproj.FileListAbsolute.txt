@@ -1,0 +1,9 @@
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DO\bin\Debug\netcoreapp3.1\Solution.DO.deps.json
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DO\bin\Debug\netcoreapp3.1\Solution.DO.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DO\bin\Debug\netcoreapp3.1\Solution.DO.pdb
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DO\obj\Debug\netcoreapp3.1\Solution.DO.csprojAssemblyReference.cache
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DO\obj\Debug\netcoreapp3.1\Solution.DO.AssemblyInfoInputs.cache
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DO\obj\Debug\netcoreapp3.1\Solution.DO.AssemblyInfo.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DO\obj\Debug\netcoreapp3.1\Solution.DO.csproj.CoreCompileInputs.cache
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DO\obj\Debug\netcoreapp3.1\Solution.DO.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DO\obj\Debug\netcoreapp3.1\Solution.DO.pdb

@@ -1,0 +1,15 @@
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DAL.EF\bin\Debug\netcoreapp3.1\Solution.DAL.EF.deps.json
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DAL.EF\bin\Debug\netcoreapp3.1\Solution.DAL.EF.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DAL.EF\obj\Debug\netcoreapp3.1\Solution.DAL.EF.AssemblyInfoInputs.cache
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DAL.EF\obj\Debug\netcoreapp3.1\Solution.DAL.EF.AssemblyInfo.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DAL.EF\obj\Debug\netcoreapp3.1\Solution.DAL.EF.csprojAssemblyReference.cache
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DAL.EF\bin\Debug\netcoreapp3.1\Solution.DAL.EF.runtimeconfig.json
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DAL.EF\bin\Debug\netcoreapp3.1\Solution.DAL.EF.runtimeconfig.dev.json
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DAL.EF\obj\Debug\netcoreapp3.1\Solution.DAL.EF.genruntimeconfig.cache
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DAL.EF\bin\Debug\netcoreapp3.1\Solution.DAL.EF.pdb
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DAL.EF\bin\Debug\netcoreapp3.1\Solution.DO.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DAL.EF\bin\Debug\netcoreapp3.1\Solution.DO.pdb
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DAL.EF\obj\Debug\netcoreapp3.1\Solution.DAL.EF.csproj.CoreCompileInputs.cache
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DAL.EF\obj\Debug\netcoreapp3.1\Solution.DAL.EF.csproj.CopyComplete
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DAL.EF\obj\Debug\netcoreapp3.1\Solution.DAL.EF.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DAL.EF\obj\Debug\netcoreapp3.1\Solution.DAL.EF.pdb
