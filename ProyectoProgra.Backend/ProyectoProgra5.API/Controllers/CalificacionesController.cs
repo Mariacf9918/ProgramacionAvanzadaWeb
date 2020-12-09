@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AutoMapper;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Solution.DAL.EF;
@@ -14,38 +15,41 @@ namespace ProyectoProgra5.API.Controllers
     public class CalificacionesController : Controller    
     {
         private readonly SolutionDBContext _context;
-
-        public CalificacionesController(SolutionDBContext context)
+        private readonly IMapper _mapper;
+        public CalificacionesController(SolutionDBContext context, IMapper mapper)
         {
             _context = context;
+            _mapper = mapper;
         }
 
         // GET: api/Calificaciones
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<data.Calificaciones>>> GetCalificaciones()
+        public async Task<ActionResult<IEnumerable<Models.Calificaciones>>> GetCalificaciones()
         {
-            return new Solution.BS.Calificaciones(_context).GetAll().ToList();
+            var aux = await new Solution.BS.Calificaciones(_context).GetAllInclude();
+            return _mapper.Map<IEnumerable<data.Calificaciones>, IEnumerable<Models.Calificaciones>>(aux).ToList();
+
         }
 
         // GET: api/Calificaciones/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<data.Calificaciones>> GetCalificacione(int id)
+        public async Task<ActionResult<Models.Calificaciones>> GetCalificacione(int id)
         {
-            var calificacione = new Solution.BS.Calificaciones(_context).GetOneById(id);
-
-            if (calificacione == null)
+            var calificacione = await new Solution.BS.Calificaciones(_context).GetOneByIdInclude(id);
+            var result = _mapper.Map<data.Calificaciones, Models.Calificaciones>(calificacione);
+            if (result == null)
             {
                 return NotFound();
             }
 
-            return calificacione;
+            return result;
         }
 
         // PUT: api/Calificaciones/5
         // To protect from overposting attacks, enable the specific properties you want to bind to, for
         // more details, see https://go.microsoft.com/fwlink/?linkid=2123754.
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutCalificacione(int id, data.Calificaciones calificacione)
+        public async Task<IActionResult> PutCalificacione(int id, Models.Calificaciones calificacione)
         {
             if (id != calificacione.IdGrupo)
             {
@@ -54,7 +58,8 @@ namespace ProyectoProgra5.API.Controllers
 
             try
             {
-                new Solution.BS.Calificaciones(_context).Update(calificacione);
+                var result = _mapper.Map<Models.Calificaciones, data.Calificaciones>(calificacione);
+                new Solution.BS.Calificaciones(_context).Update(result);
             }
             catch (Exception)
             {
@@ -76,18 +81,20 @@ namespace ProyectoProgra5.API.Controllers
         // more details, see https://go.microsoft.com/fwlink/?linkid=2123754.
         //REVISAR----------------------
         [HttpPost]
-        public async Task<ActionResult<data.Calificaciones>> PostCalificacione(data.Calificaciones calificacione)
+        public async Task<ActionResult<Models.Calificaciones>> PostCalificacione(Models.Calificaciones calificacione)
         {
-            new Solution.BS.Calificaciones(_context).Insert(calificacione);
+            var result = _mapper.Map<Models.Calificaciones, data.Calificaciones>(calificacione);
+            new Solution.BS.Calificaciones(_context).Insert(result);
 
             return CreatedAtAction("GetCalificacione", new { id = calificacione.IdCalificacion }, calificacione);
         }
 
         // DELETE: api/Calificaciones/5
         [HttpDelete("{id}")]
-        public async Task<ActionResult<data.Calificaciones>> DeleteCalificacione(int id)
+        public async Task<ActionResult<Models.Calificaciones>> DeleteCalificacione(int id)
         {
             var calificacione = new Solution.BS.Calificaciones(_context).GetOneById(id);
+            var result = _mapper.Map<data.Calificaciones, Models.Calificaciones>(calificacione);
             if (calificacione == null)
             {
                 return NotFound();
@@ -95,7 +102,7 @@ namespace ProyectoProgra5.API.Controllers
 
             new Solution.BS.Calificaciones(_context).Delete(calificacione);
 
-            return calificacione;
+            return result;
         }
 
         private bool CalificacioneExists(int id)

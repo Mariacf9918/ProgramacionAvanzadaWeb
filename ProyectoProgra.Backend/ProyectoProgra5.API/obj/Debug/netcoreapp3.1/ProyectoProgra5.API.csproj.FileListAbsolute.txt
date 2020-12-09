@@ -60,9 +60,6 @@ C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\ProyectoProgra5.API\bi
 C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\ProyectoProgra5.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\ProyectoProgra5.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\ProyectoProgra5.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\ProyectoProgra5.API\obj\Debug\netcoreapp3.1\ProyectoProgra5.API.csproj.CoreCompileInputs.cache
-C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\ProyectoProgra5.API\obj\Debug\netcoreapp3.1\ProyectoProgra5.API.MvcApplicationPartsAssemblyInfo.cs
-C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\ProyectoProgra5.API\obj\Debug\netcoreapp3.1\ProyectoProgra5.API.MvcApplicationPartsAssemblyInfo.cache
 C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\ProyectoProgra5.API\obj\Debug\netcoreapp3.1\ProyectoProgra5.API.dll
 C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\ProyectoProgra5.API\obj\Debug\netcoreapp3.1\ProyectoProgra5.API.pdb
 C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\ProyectoProgra5.API\obj\Debug\netcoreapp3.1\ProyectoProgra5.API.genruntimeconfig.cache
@@ -76,3 +73,8 @@ C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\ProyectoProgra5.API\bi
 C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\ProyectoProgra5.API\bin\Debug\netcoreapp3.1\Solution.DO.pdb
 C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\ProyectoProgra5.API\bin\Debug\netcoreapp3.1\Solution.DAL.pdb
 C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\ProyectoProgra5.API\bin\Debug\netcoreapp3.1\Solution.DAL.Repository.pdb
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\ProyectoProgra5.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\ProyectoProgra5.API\obj\Debug\netcoreapp3.1\ProyectoProgra5.API.csproj.CoreCompileInputs.cache
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\ProyectoProgra5.API\obj\Debug\netcoreapp3.1\ProyectoProgra5.API.MvcApplicationPartsAssemblyInfo.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\ProyectoProgra5.API\obj\Debug\netcoreapp3.1\ProyectoProgra5.API.MvcApplicationPartsAssemblyInfo.cache
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\ProyectoProgra5.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AutoMapper;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Solution.DAL.EF;
@@ -14,38 +15,41 @@ namespace ProyectoProgra5.API.Controllers
     public class MateriasController : Controller
     {
         private readonly SolutionDBContext _context;
-
-        public MateriasController(SolutionDBContext context)
+        private readonly IMapper _mapper;
+        public MateriasController(SolutionDBContext context, IMapper mapper)
         {
             _context = context;
+            _mapper = mapper;
         }
 
         // GET: api/Materias
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<data.Materias>>> GetMaterias()
+        public async Task<ActionResult<IEnumerable<Models.Materias>>> GetMaterias()
         {
-            return new Solution.BS.Materias(_context).GetAll().ToList();
+            var aux = await new Solution.BS.Materias(_context).GetAllInclude();
+            return _mapper.Map<IEnumerable<data.Materias>, IEnumerable<Models.Materias>>(aux).ToList();
         }
 
         // GET: api/Materias/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<data.Materias>> GetMateria(int id)
+        public async Task<ActionResult<Models.Materias>> GetMateria(int id)
         {
-            var materia = new Solution.BS.Materias(_context).GetOneById(id);
+            var materia = await new Solution.BS.Materias(_context).GetOneByIdInclude(id);
+            var result = _mapper.Map<data.Materias, Models.Materias>(materia);
 
-            if (materia == null)
+            if (result == null)
             {
                 return NotFound();
             }
 
-            return materia;
+            return result;
         }
 
         // PUT: api/Materias/5
         // To protect from overposting attacks, enable the specific properties you want to bind to, for
         // more details, see https://go.microsoft.com/fwlink/?linkid=2123754.
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutMateria(int id, data.Materias materia)
+        public async Task<IActionResult> PutMateria(int id, Models.Materias materia)
         {
             if (id != materia.IdMateria)
             {
@@ -54,7 +58,8 @@ namespace ProyectoProgra5.API.Controllers
 
             try
             {
-                new Solution.BS.Materias(_context).Update(materia);
+                var result = _mapper.Map<Models.Materias, data.Materias>(materia);
+                new Solution.BS.Materias(_context).Update(result);
             }
             catch (Exception)
             {
@@ -75,18 +80,20 @@ namespace ProyectoProgra5.API.Controllers
         // To protect from overposting attacks, enable the specific properties you want to bind to, for
         // more details, see https://go.microsoft.com/fwlink/?linkid=2123754.
         [HttpPost]
-        public async Task<ActionResult<data.Materias>> PostMateria(data.Materias materia)
+        public async Task<ActionResult<Models.Materias>> PostMateria(Models.Materias materia)
         {
-            new Solution.BS.Materias(_context).Insert(materia);
+            var result = _mapper.Map<Models.Materias, data.Materias>(materia);
+            new Solution.BS.Materias(_context).Insert(result);
 
             return CreatedAtAction("GetMateria", new { id = materia.IdMateria }, materia);
         }
 
         // DELETE: api/Materias/5
         [HttpDelete("{id}")]
-        public async Task<ActionResult<data.Materias>> DeleteMateria(int id)
+        public async Task<ActionResult<Models.Materias>> DeleteMateria(int id)
         {
             var materia = new Solution.BS.Materias(_context).GetOneById(id);
+            var result = _mapper.Map<data.Materias, Models.Materias>(materia);
             if (materia == null)
             {
                 return NotFound();
@@ -94,7 +101,7 @@ namespace ProyectoProgra5.API.Controllers
 
             new Solution.BS.Materias(_context).Delete(materia);
 
-            return materia;
+            return result;
         }
 
         private bool MateriaExists(int id)

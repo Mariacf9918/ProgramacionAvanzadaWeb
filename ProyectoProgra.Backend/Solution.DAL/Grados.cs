@@ -4,16 +4,17 @@ using Solution.DO.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 using data = Solution.DO.Objects;
 
 namespace Solution.DAL
 {
     public class Grados : ICRUD<data.Grados>
     {
-        private Repository<data.Grados> _repository = null;
+        private RepositoryGrados _repository = null;
         public Grados(SolutionDBContext solutionDBContext)
         {
-            _repository = new Repository<data.Grados>(solutionDBContext);
+            _repository = new RepositoryGrados(solutionDBContext);
         }
         public void Delete(data.Grados t)
         {
@@ -26,9 +27,19 @@ namespace Solution.DAL
             return _repository.GetAll();
         }
 
+        public async Task<IEnumerable<data.Grados>> GetAllInclude()
+        {
+            return await _repository.GetAllWithAsync();
+        }
+
         public data.Grados GetOneById(int id)
         {
             return _repository.GetOneById(id);
+        }
+
+        public async Task<data.Grados> GetOneByIdInclude(int id)
+        {
+            return await _repository.GetByIdAsync(id);
         }
 
         public void Insert(data.Grados t)

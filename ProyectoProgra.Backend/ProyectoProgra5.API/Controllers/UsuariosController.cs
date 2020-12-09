@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AutoMapper;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Solution.DAL.EF;
@@ -14,38 +15,40 @@ namespace ProyectoProgra5.API.Controllers
     public class UsuariosController : Controller
     {
         private readonly SolutionDBContext _context;
-
-        public UsuariosController(SolutionDBContext context)
+        private readonly IMapper _mapper;
+        public UsuariosController(SolutionDBContext context, IMapper mapper)
         {
             _context = context;
+            _mapper = mapper;
         }
 
         // GET: api/Usuarios
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<data.Usuarios>>> GetUsuarios()
+        public async Task<ActionResult<IEnumerable<Models.Usuarios>>> GetUsuarios()
         {
-            return new Solution.BS.Usuarios(_context).GetAll().ToList();
+            var aux = await new Solution.BS.Usuarios(_context).GetAllInclude();
+            return _mapper.Map<IEnumerable<data.Usuarios>, IEnumerable<Models.Usuarios>>(aux).ToList();
         }
 
         // GET: api/Usuarios/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<data.Usuarios>> GetUsuario(int id)
+        public async Task<ActionResult<Models.Usuarios>> GetUsuario(int id)
         {
-            var usuario = new Solution.BS.Usuarios(_context).GetOneById(id);
-
-            if (usuario == null)
+            var usuario = await new Solution.BS.Usuarios(_context).GetOneByIdInclude(id);
+            var result = _mapper.Map<data.Usuarios, Models.Usuarios>(usuario);
+            if (result == null)
             {
                 return NotFound();
             }
 
-            return usuario;
+            return result;
         }
 
         // PUT: api/Usuarios/5
         // To protect from overposting attacks, enable the specific properties you want to bind to, for
         // more details, see https://go.microsoft.com/fwlink/?linkid=2123754.
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutUsuario(int id, data.Usuarios usuario)
+        public async Task<IActionResult> PutUsuario(int id, Models.Usuarios usuario)
         {
             if (id != usuario.Cedula)
             {
@@ -54,7 +57,8 @@ namespace ProyectoProgra5.API.Controllers
 
             try
             {
-                new Solution.BS.Usuarios(_context).Update(usuario);
+                var result = _mapper.Map<Models.Usuarios, data.Usuarios>(usuario);
+                new Solution.BS.Usuarios(_context).Update(result);
             }
             catch (Exception)
             {
@@ -75,18 +79,20 @@ namespace ProyectoProgra5.API.Controllers
         // To protect from overposting attacks, enable the specific properties you want to bind to, for
         // more details, see https://go.microsoft.com/fwlink/?linkid=2123754.
         [HttpPost]
-        public async Task<ActionResult<data.Usuarios>> PostUsuario(data.Usuarios usuario)
+        public async Task<ActionResult<Models.Usuarios>> PostUsuario(Models.Usuarios usuario)
         {
+            var result = _mapper.Map<Models.Usuarios, data.Usuarios>(usuario);
+            new Solution.BS.Usuarios(_context).Insert(result);
 
-            new Solution.BS.Usuarios(_context).Insert(usuario);
             return CreatedAtAction("GetUsuario", new { id = usuario.Cedula }, usuario);
         }
 
         // DELETE: api/Usuarios/5
         [HttpDelete("{id}")]
-        public async Task<ActionResult<data.Usuarios>> DeleteUsuario(int id)
+        public async Task<ActionResult<Models.Usuarios>> DeleteUsuario(int id)
         {
             var usuario = new Solution.BS.Usuarios(_context).GetOneById(id);
+            var result = _mapper.Map<data.Usuarios, Models.Usuarios>(usuario);
             if (usuario == null)
             {
                 return NotFound();
@@ -94,7 +100,7 @@ namespace ProyectoProgra5.API.Controllers
 
             new Solution.BS.Usuarios(_context).Delete(usuario);
 
-            return usuario;
+            return result;
         }
 
         private bool UsuarioExists(int id)

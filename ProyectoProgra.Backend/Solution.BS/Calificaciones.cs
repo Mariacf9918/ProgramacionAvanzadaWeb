@@ -3,6 +3,7 @@ using Solution.DO.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 using data = Solution.DO.Objects;
 
 namespace Solution.BS
@@ -24,9 +25,19 @@ namespace Solution.BS
             return new Solution.DAL.Calificaciones(_solutionDBContext).GetAll();
         }
 
+        public async Task<IEnumerable<data.Calificaciones>> GetAllInclude()
+        {
+            return await new DAL.Calificaciones(_solutionDBContext).GetAllInclude();
+        }
+
         public data.Calificaciones GetOneById(int id)
         {
             return new Solution.DAL.Calificaciones(_solutionDBContext).GetOneById(id);
+        }
+
+        public async Task<data.Calificaciones> GetOneByIdInclude(int id)
+        {
+            return await new DAL.Calificaciones(_solutionDBContext).GetOneByIdInclude(id);
         }
 
         public void Insert(data.Calificaciones t)

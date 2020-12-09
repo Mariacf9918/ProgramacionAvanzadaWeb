@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AutoMapper;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Solution.DAL.EF;
@@ -14,38 +15,40 @@ namespace ProyectoProgra5.API.Controllers
     public class TipoPeriodoController : Controller
     {
         private readonly SolutionDBContext _context;
-
-        public TipoPeriodoController(SolutionDBContext context)
+        private readonly IMapper _mapper;
+        public TipoPeriodoController(SolutionDBContext context, IMapper mapper)
         {
             _context = context;
+            _mapper = mapper;
         }
 
         // GET: api/TipoPeriodo
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<data.TipoPeriodo>>> GetTipoPeriodos()
+        public async Task<ActionResult<IEnumerable<Models.TipoPeriodo>>> GetTipoPeriodos()
         {
-            return new Solution.BS.TipoPeriodo(_context).GetAll().ToList();
+            var aux = await new Solution.BS.TipoPeriodo(_context).GetAllInclude();
+            return _mapper.Map<IEnumerable<data.TipoPeriodo>, IEnumerable<Models.TipoPeriodo>>(aux).ToList();
         }
 
         // GET: api/TipoPeriodo/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<data.TipoPeriodo>> GetTipoPeriodo(int id)
+        public async Task<ActionResult<Models.TipoPeriodo>> GetTipoPeriodo(int id)
         {
-            var tipoPeriodo = new Solution.BS.TipoPeriodo(_context).GetOneById(id);
-
-            if (tipoPeriodo == null)
+            var tipoPeriodo = await new Solution.BS.TipoPeriodo(_context).GetOneByIdInclude(id);
+            var result = _mapper.Map<data.TipoPeriodo, Models.TipoPeriodo>(tipoPeriodo);
+            if (result == null)
             {
                 return NotFound();
             }
 
-            return tipoPeriodo;
+            return result;
         }
 
         // PUT: api/TipoPeriodo/5
         // To protect from overposting attacks, enable the specific properties you want to bind to, for
         // more details, see https://go.microsoft.com/fwlink/?linkid=2123754.
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutTipoPeriodo(int id, data.TipoPeriodo tipoPeriodo)
+        public async Task<IActionResult> PutTipoPeriodo(int id, Models.TipoPeriodo tipoPeriodo)
         {
             if (id != tipoPeriodo.IdPeriodo)
             {
@@ -54,7 +57,8 @@ namespace ProyectoProgra5.API.Controllers
 
             try
             {
-                new Solution.BS.TipoPeriodo(_context).Update(tipoPeriodo);
+                var result = _mapper.Map<Models.TipoPeriodo, data.TipoPeriodo>(tipoPeriodo);
+                new Solution.BS.TipoPeriodo(_context).Update(result);
             }
             catch (Exception)
             {
@@ -75,18 +79,20 @@ namespace ProyectoProgra5.API.Controllers
         // To protect from overposting attacks, enable the specific properties you want to bind to, for
         // more details, see https://go.microsoft.com/fwlink/?linkid=2123754.
         [HttpPost]
-        public async Task<ActionResult<data.TipoPeriodo>> PostTipoPeriodo(data.TipoPeriodo tipoPeriodo)
+        public async Task<ActionResult<Models.TipoPeriodo>> PostTipoPeriodo(Models.TipoPeriodo tipoPeriodo)
         {
-            new Solution.BS.TipoPeriodo(_context).Insert(tipoPeriodo);
+            var result = _mapper.Map<Models.TipoPeriodo, data.TipoPeriodo>(tipoPeriodo);
+            new Solution.BS.TipoPeriodo(_context).Insert(result);
 
             return CreatedAtAction("GetTipoPeriodo", new { id = tipoPeriodo.IdPeriodo }, tipoPeriodo);
         }
 
         // DELETE: api/TipoPeriodo/5
         [HttpDelete("{id}")]
-        public async Task<ActionResult<data.TipoPeriodo>> DeleteTipoPeriodo(int id)
+        public async Task<ActionResult<Models.TipoPeriodo>> DeleteTipoPeriodo(int id)
         {
             var tipoPeriodo = new Solution.BS.TipoPeriodo(_context).GetOneById(id);
+            var result = _mapper.Map<data.TipoPeriodo, Models.TipoPeriodo>(tipoPeriodo);
             if (tipoPeriodo == null)
             {
                 return NotFound();
@@ -94,7 +100,7 @@ namespace ProyectoProgra5.API.Controllers
 
             new Solution.BS.TipoPeriodo(_context).Delete(tipoPeriodo);
 
-            return tipoPeriodo;
+            return result;
         }
 
         private bool TipoPeriodoExists(int id)

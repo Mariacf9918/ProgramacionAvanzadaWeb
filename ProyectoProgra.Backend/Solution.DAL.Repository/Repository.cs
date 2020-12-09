@@ -10,7 +10,7 @@ namespace Solution.DAL.Repository
 {
     public class Repository<T> : IRepository<T> where T : class
     {
-        private readonly SolutionDBContext dBContext;
+        protected readonly SolutionDBContext dBContext;
         public Repository(SolutionDBContext context)
         {
             dBContext = context;

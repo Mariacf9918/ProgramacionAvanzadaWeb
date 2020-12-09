@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AutoMapper;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Solution.DAL.EF;
@@ -14,38 +15,40 @@ namespace ProyectoProgra5.API.Controllers
     public class UsuarioXGrupoController : Controller
     {
         private readonly SolutionDBContext _context;
-
-        public UsuarioXGrupoController(SolutionDBContext context)
+        private readonly IMapper _mapper;
+        public UsuarioXGrupoController(SolutionDBContext context, IMapper mapper)
         {
             _context = context;
+            _mapper = mapper;
         }
 
         // GET: api/UsuarioXGrupo
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<data.UsuarioXGrupo>>> GetUsuarioXGrupos()
+        public async Task<ActionResult<IEnumerable<Models.UsuarioXGrupo>>> GetUsuarioXGrupos()
         {
-            return new Solution.BS.UsuarioXGrupo(_context).GetAll().ToList();
+            var aux = await new Solution.BS.UsuarioXGrupo(_context).GetAllInclude();
+            return _mapper.Map<IEnumerable<data.UsuarioXGrupo>, IEnumerable<Models.UsuarioXGrupo>>(aux).ToList();
         }
 
         // GET: api/UsuarioXGrupo/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<data.UsuarioXGrupo>> GetUsuarioXGrupo(int id)
+        public async Task<ActionResult<Models.UsuarioXGrupo>> GetUsuarioXGrupo(int id)
         {
-            var usuarioXGrupo = new Solution.BS.UsuarioXGrupo(_context).GetOneById(id);
-
-            if (usuarioXGrupo == null)
+            var usuarioXGrupo = await new Solution.BS.UsuarioXGrupo(_context).GetOneByIdInclude(id);
+            var result = _mapper.Map<data.UsuarioXGrupo, Models.UsuarioXGrupo>(usuarioXGrupo);
+            if (result == null)
             {
                 return NotFound();
             }
 
-            return usuarioXGrupo;
+            return result;
         }
 
         // PUT: api/UsuarioXGrupo/5
         // To protect from overposting attacks, enable the specific properties you want to bind to, for
         // more details, see https://go.microsoft.com/fwlink/?linkid=2123754.
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutUsuarioXGrupo(int id, data.UsuarioXGrupo usuarioXGrupo)
+        public async Task<IActionResult> PutUsuarioXGrupo(int id, Models.UsuarioXGrupo usuarioXGrupo)
         {
             if (id != usuarioXGrupo.IdGrupo)
             {
@@ -53,7 +56,8 @@ namespace ProyectoProgra5.API.Controllers
             }
             try
             {
-                new Solution.BS.UsuarioXGrupo(_context).Update(usuarioXGrupo);
+                var result = _mapper.Map<Models.UsuarioXGrupo, data.UsuarioXGrupo>(usuarioXGrupo);
+                new Solution.BS.UsuarioXGrupo(_context).Update(result);
             }
             catch (Exception)
             {
@@ -75,33 +79,20 @@ namespace ProyectoProgra5.API.Controllers
         // more details, see https://go.microsoft.com/fwlink/?linkid=2123754.
         //Pregutar--------------------
         [HttpPost]
-        public async Task<ActionResult<data.UsuarioXGrupo>> PostUsuarioXGrupo(data.UsuarioXGrupo usuarioXGrupo)
+        public async Task<ActionResult<Models.UsuarioXGrupo>> PostUsuarioXGrupo(Models.UsuarioXGrupo usuarioXGrupo)
         {
-            _context.UsuarioXGrupo.Add(usuarioXGrupo);
-            try
-            {
-                new Solution.BS.UsuarioXGrupo(_context).Insert(usuarioXGrupo);
-            }
-            catch (Exception)
-            {
-                if (UsuarioXGrupoExists(usuarioXGrupo.IdGrupo))
-                {
-                    return Conflict();
-                }
-                else
-                {
-                    throw;
-                }
-            }
+            var result = _mapper.Map<Models.UsuarioXGrupo, data.UsuarioXGrupo>(usuarioXGrupo);
+            new Solution.BS.UsuarioXGrupo(_context).Insert(result);
 
             return CreatedAtAction("GetUsuarioXGrupo", new { id = usuarioXGrupo.IdGrupo }, usuarioXGrupo);
         }
 
         // DELETE: api/UsuarioXGrupo/5
         [HttpDelete("{id}")]
-        public async Task<ActionResult<data.UsuarioXGrupo>> DeleteUsuarioXGrupo(int id)
+        public async Task<ActionResult<Models.UsuarioXGrupo>> DeleteUsuarioXGrupo(int id)
         {
             var usuarioXGrupo = new Solution.BS.UsuarioXGrupo(_context).GetOneById(id);
+            var result = _mapper.Map<data.UsuarioXGrupo, Models.UsuarioXGrupo>(usuarioXGrupo);
             if (usuarioXGrupo == null)
             {
                 return NotFound();
@@ -109,7 +100,7 @@ namespace ProyectoProgra5.API.Controllers
 
             new Solution.BS.UsuarioXGrupo(_context).Delete(usuarioXGrupo);
 
-            return usuarioXGrupo;
+            return result;
         }
 
         private bool UsuarioXGrupoExists(int id)

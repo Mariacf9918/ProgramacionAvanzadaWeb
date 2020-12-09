@@ -7,10 +7,17 @@ namespace Solution.DO.Objects
 {
     public class TipoOperaciones
     {
-        [Key]
+        public TipoOperaciones()
+        {
+            Calificaciones = new HashSet<Calificaciones>();
+        }
+
         public int? IdTipoOperacion { get; set; }
         public string Descripcion { get; set; }
         public int Porcentaje { get; set; }
         public int IdInstitucion { get; set; }
+
+        public virtual Instituciones IdInstitucionNavigation { get; set; }
+        public virtual ICollection<Calificaciones> Calificaciones { get; set; }
     }
 }

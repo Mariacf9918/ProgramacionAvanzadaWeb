@@ -4,16 +4,17 @@ using Solution.DO.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 using data = Solution.DO.Objects;
 
 namespace Solution.DAL
 {
     public class Calificaciones : ICRUD<data.Calificaciones>
     {
-        private Repository<data.Calificaciones> _repository = null;
+        private RepositoryCalificaciones _repository = null;
         public Calificaciones(SolutionDBContext solutionDBContext)
         {
-            _repository = new Repository<data.Calificaciones>(solutionDBContext);
+            _repository = new RepositoryCalificaciones(solutionDBContext);
         }
         public void Delete(data.Calificaciones t)
         {
@@ -26,9 +27,19 @@ namespace Solution.DAL
             return _repository.GetAll();
         }
 
+        public async Task<IEnumerable<data.Calificaciones>> GetAllInclude()
+        {
+            return await _repository.GetAllWithAsync();
+        }
+
         public data.Calificaciones GetOneById(int id)
         {
             return _repository.GetOneById(id);
+        }
+
+        public async Task<data.Calificaciones> GetOneByIdInclude(int id)
+        {
+            return await _repository.GetByIdAsync(id);
         }
 
         public void Insert(data.Calificaciones t)

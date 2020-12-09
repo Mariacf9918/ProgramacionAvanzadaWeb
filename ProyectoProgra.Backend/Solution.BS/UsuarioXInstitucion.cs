@@ -3,6 +3,7 @@ using Solution.DO.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 using data = Solution.DO.Objects;
 
 namespace Solution.BS
@@ -24,9 +25,19 @@ namespace Solution.BS
             return new Solution.DAL.UsuarioXInstitucion(_solutionDBContext).GetAll();
         }
 
+        public async Task<IEnumerable<data.UsuarioXInstitucion>> GetAllInclude()
+        {
+            return await new DAL.UsuarioXInstitucion(_solutionDBContext).GetAllInclude();
+        }
+
         public data.UsuarioXInstitucion GetOneById(int id)
         {
             return new Solution.DAL.UsuarioXInstitucion(_solutionDBContext).GetOneById(id);
+        }
+
+        public async Task<data.UsuarioXInstitucion> GetOneByIdInclude(int id)
+        {
+            return await new DAL.UsuarioXInstitucion(_solutionDBContext).GetOneByIdInclude(id);
         }
 
         public void Insert(data.UsuarioXInstitucion t)

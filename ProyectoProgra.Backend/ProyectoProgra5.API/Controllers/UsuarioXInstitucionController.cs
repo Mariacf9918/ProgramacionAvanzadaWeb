@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AutoMapper;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Solution.DAL.EF;
@@ -15,38 +16,40 @@ namespace ProyectoProgra5.API.Controllers
     {
 
         private readonly SolutionDBContext _context;
-
-        public UsuarioXInstitucionController(SolutionDBContext context)
+        private readonly IMapper _mapper;
+        public UsuarioXInstitucionController(SolutionDBContext context, IMapper mapper)
         {
             _context = context;
+            _mapper = mapper;
         }
 
         // GET: api/UsuarioXInstitucion
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<data.UsuarioXInstitucion>>> GetUsuarioXInstitucions()
+        public async Task<ActionResult<IEnumerable<Models.UsuarioXInstitucion>>> GetUsuarioXInstitucions()
         {
-            return new Solution.BS.UsuarioXInstitucion(_context).GetAll().ToList();
+            var aux = await new Solution.BS.UsuarioXInstitucion(_context).GetAllInclude();
+            return _mapper.Map<IEnumerable<data.UsuarioXInstitucion>, IEnumerable<Models.UsuarioXInstitucion>>(aux).ToList();
         }
 
         // GET: api/UsuarioXInstitucion/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<data.UsuarioXInstitucion>> GetUsuarioXInstitucion(int id)
+        public async Task<ActionResult<Models.UsuarioXInstitucion>> GetUsuarioXInstitucion(int id)
         {
-            var usuarioXInstitucion = new Solution.BS.UsuarioXInstitucion(_context).GetOneById(id);
-
-            if (usuarioXInstitucion == null)
+            var usuarioXInstitucion = await new Solution.BS.UsuarioXInstitucion(_context).GetOneByIdInclude(id);
+            var result = _mapper.Map<data.UsuarioXInstitucion, Models.UsuarioXInstitucion>(usuarioXInstitucion);
+            if (result == null)
             {
                 return NotFound();
             }
 
-            return usuarioXInstitucion;
+            return result;
         }
 
         // PUT: api/UsuarioXInstitucion/5
         // To protect from overposting attacks, enable the specific properties you want to bind to, for
         // more details, see https://go.microsoft.com/fwlink/?linkid=2123754.
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutUsuarioXInstitucion(int id, data.UsuarioXInstitucion usuarioXInstitucion)
+        public async Task<IActionResult> PutUsuarioXInstitucion(int id, Models.UsuarioXInstitucion usuarioXInstitucion)
         {
             if (id != usuarioXInstitucion.Cedula)
             {
@@ -55,7 +58,8 @@ namespace ProyectoProgra5.API.Controllers
 
             try
             {
-                new Solution.BS.UsuarioXInstitucion(_context).Update(usuarioXInstitucion);
+                var result = _mapper.Map<Models.UsuarioXInstitucion, data.UsuarioXInstitucion>(usuarioXInstitucion);
+                new Solution.BS.UsuarioXInstitucion(_context).Update(result);
             }
             catch (Exception)
             {
@@ -76,33 +80,20 @@ namespace ProyectoProgra5.API.Controllers
         // To protect from overposting attacks, enable the specific properties you want to bind to, for
         // more details, see https://go.microsoft.com/fwlink/?linkid=2123754.
         [HttpPost]
-        public async Task<ActionResult<data.UsuarioXInstitucion>> PostUsuarioXInstitucion(data.UsuarioXInstitucion usuarioXInstitucion)
+        public async Task<ActionResult<Models.UsuarioXInstitucion>> PostUsuarioXInstitucion(Models.UsuarioXInstitucion usuarioXInstitucion)
         {
-            _context.UsuarioXInstitucion.Add(usuarioXInstitucion);
-            try
-            {
-                new Solution.BS.UsuarioXInstitucion(_context).Insert(usuarioXInstitucion);
-            }
-            catch (Exception)
-            {
-                if (UsuarioXInstitucionExists(usuarioXInstitucion.Cedula))
-                {
-                    return Conflict();
-                }
-                else
-                {
-                    throw;
-                }
-            }
+            var result = _mapper.Map<Models.UsuarioXInstitucion, data.UsuarioXInstitucion>(usuarioXInstitucion);
+            new Solution.BS.UsuarioXInstitucion(_context).Insert(result);
 
             return CreatedAtAction("GetUsuarioXInstitucion", new { id = usuarioXInstitucion.Cedula }, usuarioXInstitucion);
         }
 
         // DELETE: api/UsuarioXInstitucion/5
         [HttpDelete("{id}")]
-        public async Task<ActionResult<data.UsuarioXInstitucion>> DeleteUsuarioXInstitucion(int id)
+        public async Task<ActionResult<Models.UsuarioXInstitucion>> DeleteUsuarioXInstitucion(int id)
         {
             var usuarioXInstitucion = new Solution.BS.UsuarioXInstitucion(_context).GetOneById(id);
+            var result = _mapper.Map<data.UsuarioXInstitucion, Models.UsuarioXInstitucion>(usuarioXInstitucion);
             if (usuarioXInstitucion == null)
             {
                 return NotFound();
@@ -110,7 +101,7 @@ namespace ProyectoProgra5.API.Controllers
 
             new Solution.BS.UsuarioXInstitucion(_context).Delete(usuarioXInstitucion);
 
-            return usuarioXInstitucion;
+            return result;
         }
 
         private bool UsuarioXInstitucionExists(int id)

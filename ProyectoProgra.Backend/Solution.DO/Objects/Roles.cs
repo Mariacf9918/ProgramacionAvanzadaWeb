@@ -7,8 +7,15 @@ namespace Solution.DO.Objects
 {
     public class Roles
     {
-        [Key]
+       
+        public Roles()
+        {
+            Usuarios = new HashSet<Usuarios>();
+        }
+
         public int? IdRol { get; set; }
         public string Descripcion { get; set; }
+
+        public virtual ICollection<Usuarios> Usuarios { get; set; }
     }
 }

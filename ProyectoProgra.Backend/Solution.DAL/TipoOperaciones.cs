@@ -4,16 +4,17 @@ using Solution.DO.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 using data = Solution.DO.Objects;
 
 namespace Solution.DAL
 {
     public class TipoOperaciones : ICRUD<data.TipoOperaciones>
     {
-        private Repository<data.TipoOperaciones> _repository = null;
+        private RepositoryTipoOperaciones _repository = null;
         public TipoOperaciones(SolutionDBContext solutionDBContext)
         {
-            _repository = new Repository<data.TipoOperaciones>(solutionDBContext);
+            _repository = new RepositoryTipoOperaciones(solutionDBContext);
         }
         public void Delete(data.TipoOperaciones t)
         {
@@ -26,9 +27,19 @@ namespace Solution.DAL
             return _repository.GetAll();
         }
 
+        public async Task<IEnumerable<data.TipoOperaciones>> GetAllInclude()
+        {
+            return await _repository.GetAllWithAsync();
+        }
+
         public data.TipoOperaciones GetOneById(int id)
         {
             return _repository.GetOneById(id);
+        }
+
+        public async Task<data.TipoOperaciones> GetOneByIdInclude(int id)
+        {
+            return await _repository.GetByIdAsync(id);
         }
 
         public void Insert(data.TipoOperaciones t)

@@ -16,5 +16,11 @@ namespace Solution.DO.Objects
         public int IdPeriodo { get; set; }
         public decimal Nota { get; set; }
         public DateTime Fecha { get; set; }
+
+        public virtual Usuarios CedulaNavigation { get; set; }
+        public virtual Grupos IdGrupoNavigation { get; set; }
+        public virtual Materias IdMateriaNavigation { get; set; }
+        public virtual TipoPeriodo IdPeriodoNavigation { get; set; }
+        public virtual TipoOperaciones IdTipoOperacionNavigation { get; set; }
     }
 }

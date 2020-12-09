@@ -3,6 +3,7 @@ using Solution.DO.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 using data = Solution.DO.Objects;
 
 namespace Solution.BS
@@ -24,9 +25,19 @@ namespace Solution.BS
             return new Solution.DAL.TipoOperaciones(_solutionDBContext).GetAll();
         }
 
+        public async Task<IEnumerable<data.TipoOperaciones>> GetAllInclude()
+        {
+            return await new DAL.TipoOperaciones(_solutionDBContext).GetAllInclude();
+        }
+
         public data.TipoOperaciones GetOneById(int id)
         {
             return new Solution.DAL.TipoOperaciones(_solutionDBContext).GetOneById(id);
+        }
+
+        public async Task<data.TipoOperaciones> GetOneByIdInclude(int id)
+        {
+            return await new DAL.TipoOperaciones(_solutionDBContext).GetOneByIdInclude(id);
         }
 
         public void Insert(data.TipoOperaciones t)

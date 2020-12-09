@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "oSUdhMWwaQ4wvjKX1icBawvRyZHPnHsVHfZaSbnRwfWFjcyuD3SJXplCqIaOhK3BusY1jfiXVme2wDLCtYy4pw==",
+  "dgSpecHash": "2lUrMh6j2ayMt7WQeggEorDuH03RQCcXIUW7ADbmGzgLie3hS2xYUs5pjqzZZi6XCj4SLuIUr+R/jMN2/lzQOw==",
   "success": true,
   "projectFilePath": "C:\\ProyectoProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\ProyectoProgra5.API\\ProyectoProgra5.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Maria J Castillo F\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
+    "C:\\Users\\Maria J Castillo F\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\Maria J Castillo F\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Maria J Castillo F\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Maria J Castillo F\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

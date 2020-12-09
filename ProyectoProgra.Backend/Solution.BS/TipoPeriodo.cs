@@ -3,6 +3,7 @@ using Solution.DO.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 using data = Solution.DO.Objects;
 
 namespace Solution.BS
@@ -24,9 +25,19 @@ namespace Solution.BS
             return new Solution.DAL.TipoPeriodo(_solutionDBContext).GetAll();
         }
 
+        public async Task<IEnumerable<data.TipoPeriodo>> GetAllInclude()
+        {
+            return await new DAL.TipoPeriodo(_solutionDBContext).GetAllInclude();
+        }
+
         public data.TipoPeriodo GetOneById(int id)
         {
             return new Solution.DAL.TipoPeriodo(_solutionDBContext).GetOneById(id);
+        }
+
+        public async Task<data.TipoPeriodo> GetOneByIdInclude(int id)
+        {
+            return await new DAL.TipoPeriodo(_solutionDBContext).GetOneByIdInclude(id);
         }
 
         public void Insert(data.TipoPeriodo t)

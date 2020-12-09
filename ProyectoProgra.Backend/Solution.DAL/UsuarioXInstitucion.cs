@@ -4,16 +4,17 @@ using Solution.DO.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 using data = Solution.DO.Objects;
 
 namespace Solution.DAL
 {
     public class UsuarioXInstitucion : ICRUD<data.UsuarioXInstitucion>
     {
-        private Repository<data.UsuarioXInstitucion> _repository = null;
+        private RepositoryUsuarioXInstitucion _repository = null;
         public UsuarioXInstitucion(SolutionDBContext solutionDBContext)
         {
-            _repository = new Repository<data.UsuarioXInstitucion>(solutionDBContext);
+            _repository = new RepositoryUsuarioXInstitucion(solutionDBContext);
         }
         public void Delete(data.UsuarioXInstitucion t)
         {
@@ -26,9 +27,19 @@ namespace Solution.DAL
             return _repository.GetAll();
         }
 
+        public async Task<IEnumerable<data.UsuarioXInstitucion>> GetAllInclude()
+        {
+            return await _repository.GetAllWithAsync();
+        }
+
         public data.UsuarioXInstitucion GetOneById(int id)
         {
             return _repository.GetOneById(id);
+        }
+
+        public async Task<data.UsuarioXInstitucion> GetOneByIdInclude(int id)
+        {
+            return await _repository.GetByIdAsync(id);
         }
 
         public void Insert(data.UsuarioXInstitucion t)
