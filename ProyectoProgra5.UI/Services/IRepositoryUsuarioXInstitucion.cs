@@ -8,6 +8,6 @@ namespace ProyectoProgra5.UI.Services
 {
     public interface IRepositoryUsuarioXInstitucion
     {
-        List<UsuarioXGrupo> ObtenerTodos();
+        List<UsuarioXInstitucion> ObtenerTodos();
     }
 }

@@ -15,9 +15,11 @@ namespace ProyectoProgra5.UI.Services
             DbContext = dbContext;
         }
 
-        public List<UsuarioXGrupo> ObtenerTodos()
+        public List<UsuarioXInstitucion> ObtenerTodos()
         {
-            throw new NotImplementedException();
+            return DbContext.UsuarioXInstitucions.ToList();
         }
+
+        
     }
 }

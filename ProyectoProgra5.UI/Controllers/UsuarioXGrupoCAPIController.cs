@@ -60,7 +60,7 @@ namespace ProyectoProgra5.UI.Controllers
         // GET: UsuarioXGrupoWEF/Create
         public IActionResult Create()
         {
-            ViewData["Cedula"] = new SelectList(GetAllUsuarios(), "Cedula", "Contrasena");
+            ViewData["Cedula"] = new SelectList(GetAllUsuarios(), "Cedula", "Cedula");
             ViewData["IdGrupo"] = new SelectList(GetAllGrupos(), "IdGrupo", "IdGrupo");
             return View();
         }
@@ -89,7 +89,7 @@ namespace ProyectoProgra5.UI.Controllers
                     }
                 }
             }
-            ViewData["Cedula"] = new SelectList(GetAllUsuarios(), "Cedula", "Contrasena", usuarioXGrupo.Cedula);
+            ViewData["Cedula"] = new SelectList(GetAllUsuarios(), "Cedula", "Cedula", usuarioXGrupo.Cedula);
             ViewData["IdGrupo"] = new SelectList(GetAllGrupos(), "IdGrupo", "IdGrupo", usuarioXGrupo.IdGrupo);
             return View(usuarioXGrupo);
         }
@@ -107,7 +107,7 @@ namespace ProyectoProgra5.UI.Controllers
             {
                 return NotFound();
             }
-            ViewData["Cedula"] = new SelectList(GetAllUsuarios(), "Cedula", "Contrasena", usuarioXGrupo.Cedula);
+            ViewData["Cedula"] = new SelectList(GetAllUsuarios(), "Cedula", "Cedula", usuarioXGrupo.Cedula);
             ViewData["IdGrupo"] = new SelectList(GetAllGrupos(), "IdGrupo", "IdGrupo", usuarioXGrupo.IdGrupo);
             return View(usuarioXGrupo);
         }
@@ -157,7 +157,7 @@ namespace ProyectoProgra5.UI.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["Cedula"] = new SelectList(GetAllUsuarios(), "Cedula", "Contrasena", usuarioXGrupo.Cedula);
+            ViewData["Cedula"] = new SelectList(GetAllUsuarios(), "Cedula", "Cedula", usuarioXGrupo.Cedula);
             ViewData["IdGrupo"] = new SelectList(GetAllGrupos(), "IdGrupo", "IdGrupo", usuarioXGrupo.IdGrupo);
             return View(usuarioXGrupo);
         }

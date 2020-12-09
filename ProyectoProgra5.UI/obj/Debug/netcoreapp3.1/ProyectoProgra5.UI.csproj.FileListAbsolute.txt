@@ -169,7 +169,6 @@ C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\ru
 C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.csprojAssemblyReference.cache
 C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\CalificacionesWEF\Create.cshtml.g.cs
 C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\CalificacionesWEF\Delete.cshtml.g.cs
 C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\CalificacionesWEF\Details.cshtml.g.cs
@@ -575,3 +574,4 @@ D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj
 D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.pdb
 D:\Universidad\lll C 2020\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.genruntimeconfig.cache
 C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\Razor\Views\Acceso\Index.cshtml.g.cs
+C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra5.UI\obj\Debug\netcoreapp3.1\ProyectoProgra5.UI.csprojAssemblyReference.cache
