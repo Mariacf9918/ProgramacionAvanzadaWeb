@@ -5876,19 +5876,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Maria J Castillo F\\.nuget\\packages\\": {}
+    "C:\\Users\\oscar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProyectoProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\Solution.BS\\Solution.BS.csproj",
+      "projectUniqueName": "C:\\Users\\oscar\\ProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\Solution.BS\\Solution.BS.csproj",
       "projectName": "Solution.BS",
-      "projectPath": "C:\\ProyectoProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\Solution.BS\\Solution.BS.csproj",
-      "packagesPath": "C:\\Users\\Maria J Castillo F\\.nuget\\packages\\",
-      "outputPath": "C:\\ProyectoProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\Solution.BS\\obj\\",
+      "projectPath": "C:\\Users\\oscar\\ProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\Solution.BS\\Solution.BS.csproj",
+      "packagesPath": "C:\\Users\\oscar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\oscar\\ProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\Solution.BS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Maria J Castillo F\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\oscar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5901,14 +5901,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\ProyectoProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\Solution.DAL.EF\\Solution.DAL.EF.csproj": {
-              "projectPath": "C:\\ProyectoProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\Solution.DAL.EF\\Solution.DAL.EF.csproj"
+            "C:\\Users\\oscar\\ProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\Solution.DAL.EF\\Solution.DAL.EF.csproj": {
+              "projectPath": "C:\\Users\\oscar\\ProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\Solution.DAL.EF\\Solution.DAL.EF.csproj"
             },
-            "C:\\ProyectoProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\Solution.DAL\\Solution.DAL.csproj": {
-              "projectPath": "C:\\ProyectoProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\Solution.DAL\\Solution.DAL.csproj"
+            "C:\\Users\\oscar\\ProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\Solution.DAL\\Solution.DAL.csproj": {
+              "projectPath": "C:\\Users\\oscar\\ProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\Solution.DAL\\Solution.DAL.csproj"
             },
-            "C:\\ProyectoProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\Solution.DO\\Solution.DO.csproj": {
-              "projectPath": "C:\\ProyectoProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\Solution.DO\\Solution.DO.csproj"
+            "C:\\Users\\oscar\\ProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\Solution.DO\\Solution.DO.csproj": {
+              "projectPath": "C:\\Users\\oscar\\ProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\Solution.DO\\Solution.DO.csproj"
             }
           }
         }
@@ -5952,7 +5952,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
