@@ -12,3 +12,17 @@ C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DAL.Repositor
 C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.csproj.CopyComplete
 C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.dll
 C:\ProyectoProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.pdb
+C:\Users\oscar\ProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DAL.Repository.deps.json
+C:\Users\oscar\ProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DAL.Repository.dll
+C:\Users\oscar\ProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DAL.Repository.pdb
+C:\Users\oscar\ProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DAL.EF.dll
+C:\Users\oscar\ProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DO.dll
+C:\Users\oscar\ProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DAL.EF.pdb
+C:\Users\oscar\ProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DAL.Repository\bin\Debug\netcoreapp3.1\Solution.DO.pdb
+C:\Users\oscar\ProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.csprojAssemblyReference.cache
+C:\Users\oscar\ProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.AssemblyInfoInputs.cache
+C:\Users\oscar\ProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.AssemblyInfo.cs
+C:\Users\oscar\ProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.csproj.CoreCompileInputs.cache
+C:\Users\oscar\ProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.csproj.CopyComplete
+C:\Users\oscar\ProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.dll
+C:\Users\oscar\ProgramacionAvanzadaWeb\ProyectoProgra.Backend\Solution.DAL.Repository\obj\Debug\netcoreapp3.1\Solution.DAL.Repository.pdb

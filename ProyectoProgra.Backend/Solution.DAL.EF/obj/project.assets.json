@@ -5814,19 +5814,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Maria J Castillo F\\.nuget\\packages\\": {}
+    "C:\\Users\\oscar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProyectoProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\Solution.DAL.EF\\Solution.DAL.EF.csproj",
+      "projectUniqueName": "C:\\Users\\oscar\\ProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\Solution.DAL.EF\\Solution.DAL.EF.csproj",
       "projectName": "Solution.DAL.EF",
-      "projectPath": "C:\\ProyectoProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\Solution.DAL.EF\\Solution.DAL.EF.csproj",
-      "packagesPath": "C:\\Users\\Maria J Castillo F\\.nuget\\packages\\",
-      "outputPath": "C:\\ProyectoProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\Solution.DAL.EF\\obj\\",
+      "projectPath": "C:\\Users\\oscar\\ProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\Solution.DAL.EF\\Solution.DAL.EF.csproj",
+      "packagesPath": "C:\\Users\\oscar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\oscar\\ProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\Solution.DAL.EF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Maria J Castillo F\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\oscar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5839,8 +5839,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\ProyectoProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\Solution.DO\\Solution.DO.csproj": {
-              "projectPath": "C:\\ProyectoProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\Solution.DO\\Solution.DO.csproj"
+            "C:\\Users\\oscar\\ProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\Solution.DO\\Solution.DO.csproj": {
+              "projectPath": "C:\\Users\\oscar\\ProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\Solution.DO\\Solution.DO.csproj"
             }
           }
         }
@@ -5884,7 +5884,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
