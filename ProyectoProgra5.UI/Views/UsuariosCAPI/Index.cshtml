@@ -5,19 +5,16 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<h1>Registros de los Usuarios</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create">Crear un nuevo registro</a>
 </p>
 <table class="table">
     <thead>
         <tr>
             <th>
                 @Html.DisplayNameFor(model => model.Cedula)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Contrasena)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.NombreCompleto)
@@ -39,9 +36,6 @@
                     @Html.DisplayFor(modelItem => item.Cedula)
                 </td>
                 <td>
-                    @Html.DisplayFor(modelItem => item.Contrasena)
-                </td>
-                <td>
                     @Html.DisplayFor(modelItem => item.NombreCompleto)
                 </td>
                 <td>
@@ -51,9 +45,9 @@
                     @Html.DisplayFor(modelItem => item.IdRolNavigation.Descripcion)
                 </td>
                 <td>
-                    <a asp-action="Edit" asp-route-id="@item.Cedula">Edit</a> |
-                    <a asp-action="Details" asp-route-id="@item.Cedula">Details</a> |
-                    <a asp-action="Delete" asp-route-id="@item.Cedula">Delete</a>
+                    <a asp-action="Edit" asp-route-id="@item.Cedula">Editar</a> |
+                    <a asp-action="Details" asp-route-id="@item.Cedula">Detalles</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Cedula">Eliminar</a>
                 </td>
             </tr>
         }

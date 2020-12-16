@@ -12,10 +12,11 @@ namespace ProyectoProgra5.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class CalificacionesController : Controller    
+    public class CalificacionesController : ControllerBase
     {
         private readonly SolutionDBContext _context;
         private readonly IMapper _mapper;
+
         public CalificacionesController(SolutionDBContext context, IMapper mapper)
         {
             _context = context;
@@ -28,15 +29,15 @@ namespace ProyectoProgra5.API.Controllers
         {
             var aux = await new Solution.BS.Calificaciones(_context).GetAllInclude();
             return _mapper.Map<IEnumerable<data.Calificaciones>, IEnumerable<Models.Calificaciones>>(aux).ToList();
-
         }
 
         // GET: api/Calificaciones/5
         [HttpGet("{id}")]
         public async Task<ActionResult<Models.Calificaciones>> GetCalificacione(int id)
         {
-            var calificacione = await new Solution.BS.Calificaciones(_context).GetOneByIdInclude(id);
-            var result = _mapper.Map<data.Calificaciones, Models.Calificaciones>(calificacione);
+            var aux = await new Solution.BS.Calificaciones(_context).GetOneByIdInclude(id);
+            var result = _mapper.Map<data.Calificaciones, Models.Calificaciones>(aux);
+
             if (result == null)
             {
                 return NotFound();
@@ -51,7 +52,7 @@ namespace ProyectoProgra5.API.Controllers
         [HttpPut("{id}")]
         public async Task<IActionResult> PutCalificacione(int id, Models.Calificaciones calificacione)
         {
-            if (id != calificacione.IdGrupo)
+            if (id != calificacione.IdCalificacion)
             {
                 return BadRequest();
             }
@@ -79,7 +80,6 @@ namespace ProyectoProgra5.API.Controllers
         // POST: api/Calificaciones
         // To protect from overposting attacks, enable the specific properties you want to bind to, for
         // more details, see https://go.microsoft.com/fwlink/?linkid=2123754.
-        //REVISAR----------------------
         [HttpPost]
         public async Task<ActionResult<Models.Calificaciones>> PostCalificacione(Models.Calificaciones calificacione)
         {

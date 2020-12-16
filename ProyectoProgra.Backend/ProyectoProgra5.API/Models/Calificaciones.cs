@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -7,6 +8,7 @@ namespace ProyectoProgra5.API.Models
 {
     public class Calificaciones
     {
+        [Key]
         public int? IdCalificacion { get; set; }
         public int IdGrupo { get; set; }
         public int Cedula { get; set; }

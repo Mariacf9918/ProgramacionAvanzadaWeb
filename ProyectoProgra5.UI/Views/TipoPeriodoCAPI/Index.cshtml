@@ -5,10 +5,10 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<h1>Registros de los Tipo de Periodo</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create">Crear un nuevo registro</a>
 </p>
 <table class="table">
     <thead>
@@ -39,9 +39,9 @@
                     @Html.DisplayFor(modelItem => item.IdInstitucionNavigation.NombreInstitucion)
                 </td>
                 <td>
-                    <a asp-action="Edit" asp-route-id="@item.IdPeriodo">Edit</a> |
-                    <a asp-action="Details" asp-route-id="@item.IdPeriodo">Details</a> |
-                    <a asp-action="Delete" asp-route-id="@item.IdPeriodo">Delete</a>
+                    <a asp-action="Edit" asp-route-id="@item.IdPeriodo">Editar</a> |
+                    <a asp-action="Details" asp-route-id="@item.IdPeriodo">Detalles</a> |
+                    <a asp-action="Delete" asp-route-id="@item.IdPeriodo">Eliminar</a>
                 </td>
             </tr>
         }

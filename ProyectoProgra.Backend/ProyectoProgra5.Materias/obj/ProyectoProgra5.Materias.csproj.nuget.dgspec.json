@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oscar\\ProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\ProyectoProgra5.Materias\\ProyectoProgra5.Materias.csproj": {}
+    "C:\\ProyectoFinalProgra5\\ProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\ProyectoProgra5.Materias\\ProyectoProgra5.Materias.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oscar\\ProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\ProyectoProgra5.Materias\\ProyectoProgra5.Materias.csproj": {
+    "C:\\ProyectoFinalProgra5\\ProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\ProyectoProgra5.Materias\\ProyectoProgra5.Materias.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oscar\\ProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\ProyectoProgra5.Materias\\ProyectoProgra5.Materias.csproj",
+        "projectUniqueName": "C:\\ProyectoFinalProgra5\\ProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\ProyectoProgra5.Materias\\ProyectoProgra5.Materias.csproj",
         "projectName": "ProyectoProgra5.Materias",
-        "projectPath": "C:\\Users\\oscar\\ProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\ProyectoProgra5.Materias\\ProyectoProgra5.Materias.csproj",
-        "packagesPath": "C:\\Users\\oscar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oscar\\ProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\ProyectoProgra5.Materias\\obj\\",
+        "projectPath": "C:\\ProyectoFinalProgra5\\ProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\ProyectoProgra5.Materias\\ProyectoProgra5.Materias.csproj",
+        "packagesPath": "C:\\Users\\Maria J Castillo F\\.nuget\\packages\\",
+        "outputPath": "C:\\ProyectoFinalProgra5\\ProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\ProyectoProgra5.Materias\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\oscar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Maria J Castillo F\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -79,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

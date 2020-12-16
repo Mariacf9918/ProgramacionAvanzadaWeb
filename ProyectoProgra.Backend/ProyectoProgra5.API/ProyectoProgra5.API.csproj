@@ -5,6 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Controllers\UsuarioXGrupoController.cs" />
+    <Compile Remove="Controllers\UsuarioXInstitucionController.cs" />
     <Compile Remove="Controllers\WeatherForecastController.cs" />
   </ItemGroup>
 

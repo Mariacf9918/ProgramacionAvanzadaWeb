@@ -35,7 +35,7 @@ namespace ProyectoProgra5.API.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult<Models.Grupos>> GetGrupo(int id)
         {
-            var grupo = new Solution.BS.Grupos(_context).GetOneById(id);
+            var grupo = await new Solution.BS.Grupos(_context).GetOneByIdInclude(id);
             var result = _mapper.Map<data.Grupos, Models.Grupos>(grupo);
             if (result == null)
             {

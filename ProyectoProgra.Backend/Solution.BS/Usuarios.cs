@@ -42,7 +42,7 @@ namespace Solution.BS
 
         public void Insert(data.Usuarios t)
         {
-            t.Cedula = null;
+            //t.Cedula = null;
             new Solution.DAL.Usuarios(_solutionDBContext).Insert(t);
         }
 

@@ -8947,19 +8947,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\oscar\\.nuget\\packages\\": {}
+    "C:\\Users\\Maria J Castillo F\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oscar\\ProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\ProyectoProgra5.TipoPeriodo\\ProyectoProgra5.TipoPeriodo.csproj",
+      "projectUniqueName": "C:\\ProyectoFinalProgra5\\ProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\ProyectoProgra5.TipoPeriodo\\ProyectoProgra5.TipoPeriodo.csproj",
       "projectName": "ProyectoProgra5.TipoPeriodo",
-      "projectPath": "C:\\Users\\oscar\\ProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\ProyectoProgra5.TipoPeriodo\\ProyectoProgra5.TipoPeriodo.csproj",
-      "packagesPath": "C:\\Users\\oscar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oscar\\ProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\ProyectoProgra5.TipoPeriodo\\obj\\",
+      "projectPath": "C:\\ProyectoFinalProgra5\\ProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\ProyectoProgra5.TipoPeriodo\\ProyectoProgra5.TipoPeriodo.csproj",
+      "packagesPath": "C:\\Users\\Maria J Castillo F\\.nuget\\packages\\",
+      "outputPath": "C:\\ProyectoFinalProgra5\\ProgramacionAvanzadaWeb\\ProyectoProgra.Backend\\ProyectoProgra5.TipoPeriodo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\oscar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Maria J Castillo F\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9024,7 +9024,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -7,7 +7,7 @@ namespace Solution.DO.Objects
 {
     public class Calificaciones
     {
-        [Key]
+   [Key]
         public int? IdCalificacion { get; set; }
         public int IdGrupo { get; set; }
         public int Cedula { get; set; }

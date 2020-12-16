@@ -14,8 +14,8 @@ namespace ProyectoProgra5.API.Models
         public int IdRol { get; set; }
 
         public virtual Roles IdRolNavigation { get; set; }
-        //public virtual ICollection<Calificaciones> Calificaciones { get; set; }
-        //public virtual ICollection<UsuarioXGrupo> UsuarioXGrupos { get; set; }
-       // public virtual ICollection<UsuarioXInstitucion> UsuarioXInstitucions { get; set; }
+        public virtual ICollection<Calificaciones> Calificaciones { get; set; }
+        public virtual ICollection<UsuarioXGrupo> UsuarioXGrupos { get; set; }
+       public virtual ICollection<UsuarioXInstitucion> UsuarioXInstitucions { get; set; }
     }
 }

@@ -46,6 +46,7 @@ namespace Solution.DAL.EF
                 entity.HasKey(e => new { e.IdGrupo, e.Cedula, e.IdTipoOperacion, e.IdMateria, e.IdPeriodo });
 
                 entity.Property(e => e.Nota).HasColumnType("decimal(18, 2)");
+                //entity.Property(e => e.Fecha).HasColumnType("datetime");
 
                 entity.HasOne(d => d.CedulaNavigation)
                     .WithMany(p => p.Calificaciones)

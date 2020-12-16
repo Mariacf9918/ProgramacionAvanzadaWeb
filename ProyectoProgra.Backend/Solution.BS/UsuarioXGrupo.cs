@@ -42,7 +42,7 @@ namespace Solution.BS
 
         public void Insert(data.UsuarioXGrupo t)
         {
-            t.IdUsuarioXgrupo = null;
+            //t.IdUsuarioXgrupo = null;
             new Solution.DAL.UsuarioXGrupo(_solutionDBContext).Insert(t);
         }
 
